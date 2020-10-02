@@ -4,4 +4,4 @@
 - Run through Rockps.py
 - Have fun while playing
 
-> Developed by [Kuldeep Sharma](https://github.com/SoleCodr)
+> Developed by [Kuldeep Sharma](https://github.com/aliya-rahamani)
